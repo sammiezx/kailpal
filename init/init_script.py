@@ -8,3 +8,5 @@ sys.path.append('C:\\Users\\anish\\OneDrive\\Desktop\\KAILPAL\\kailpal\\function
 
 import square as sq
 print(sq.squareMethod(7))
+
+#dummy
